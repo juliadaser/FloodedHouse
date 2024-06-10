@@ -26,7 +26,7 @@ Find 3D print models here
 ## Part 4:
 Find Illustrator Files here
 
-[Contribution guidelines for this project](/Fabrication/3DPrinting)
+[Contribution guidelines for this project](/Fabrication/3D%20Printing)
 
 ## Part 5:
 Miniature Items:
