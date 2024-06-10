@@ -31,6 +31,10 @@ The aquarium size where the miniature apartment is placed in, is in a 1:20 scale
 
 ## Part 5: Miniature Items
 
+
+![Picture of a Miniature Item from Flooded House.](/assets/images/electrocat.png)
+
+
 How scale is calculated
 Pictures
 
