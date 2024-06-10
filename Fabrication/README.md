@@ -21,12 +21,10 @@ Material List
 Explain how size was calculated
 
 ## Part 3:
-Find 3D print models here
+[Find 3D Models here](/Fabrication/3D%20Printing)
 
 ## Part 4:
-Find Illustrator Files here
-
-[Contribution guidelines for this project](/Fabrication/3D%20Printing)
+[Find Illustrator Files here](/Fabrication/Laser%20Cutting)
 
 ## Part 5:
 Miniature Items:
