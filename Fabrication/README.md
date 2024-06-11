@@ -24,6 +24,8 @@ The aquarium size where the miniature apartment is placed in, is in a 1:20 scale
 
 <img src="/../main/Pictures/PlumbinSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="500">
 
+As shown in the ilustration above, there are two water pumps. One pumps water from the water tank into into the aqarium, and one pumps water out of the aquarium into the water tank. The 'plumbing' is made waterproof by using several different _water tank connectors_ listed above. Two holes are drilled into the aquarium underside to fit the _water tank connectors_. These holes can either be laser cut (see Part 4: Laser Cutting), or drilled with a big acrylic drillbit. 
+
 ## Part 3: 3D printing
 [Find 3D Models here](/Fabrication/3D%20Printing)
 
