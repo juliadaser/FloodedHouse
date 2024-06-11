@@ -38,6 +38,12 @@ The _Acrylic Aquarium Top_ is lasercut in 1/8" thickness transparent acrylic.
 The miniature items inside the aquarium are fabricated from an array of different materials, including painted clay, wood, metal, and fabric. 
 All items are a direct replica of my own furniture and personal items, in a scale of 1:20. Here are some pictures of what my miniature items look like: 
 
-![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
+
+<img src="/../main/Pictures/3DprintFilament.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
+<img src="/../main/Pictures/CoffeeTable.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
+<img src="/../main/Pictures/Plant.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
+<img src="/../main/Pictures/Chair.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
+<img src="/../main/Pictures/Nightshelf.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
+<img src="/../main/Pictures/Teddys.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
 
 
