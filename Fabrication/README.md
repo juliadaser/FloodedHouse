@@ -9,7 +9,7 @@
 ## Part 1: Overview
 ![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
 
-<img src="/../main/Pictures/OverviewSketch.jpg" alt="Picture of a Miniature Item from Flooded House." width="600" height="600">
+<img src="/../main/Pictures/OverviewSketch.jpg" alt="Picture of a Miniature Item from Flooded House." width="800">
 
 
 ## Part 2: Materials
