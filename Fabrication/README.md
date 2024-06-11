@@ -10,6 +10,8 @@
 Sketch of what parts come where (labelled with colors)
 How they are attached to each other (resin, screws)
 
+![Picture of a Miniature Item from Flooded House.](/../Pictures/OverviewSketch.jpg)
+
 ## Part 2: Materials
 
 ### Water Storage
