@@ -34,10 +34,10 @@ The _Electronics Housing_ and the _Water Tank Walls_ are printed in black filame
 The _Acrylic Aquarium Top_ is lasercut in 1/8" thickness transparent acrylic. 
 
 ## Part 5: Miniature Items
+
+The miniature items inside the aquarium are fabricated from an array of different materials, including painted clay, wood, metal, and fabric. 
+All items are a direct replica of my own furniture and personal items, in a scale of 1:20. Here are some pictures of what my miniature items look like: 
+
 ![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
-
-
-How scale is calculated
-Pictures
 
 
