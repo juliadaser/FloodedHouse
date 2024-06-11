@@ -7,10 +7,10 @@
 
 
 ## Part 1: Overview
-Sketch of what parts come where (labelled with colors)
-How they are attached to each other (resin, screws)
-
 ![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
+
+<img src="/../main/Pictures/OverviewSketch.jpg" alt="Picture of a Miniature Item from Flooded House." width="300" height="300">
+
 
 ## Part 2: Materials
 
