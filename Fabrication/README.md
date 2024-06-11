@@ -65,11 +65,3 @@ All items are a direct replica of my own furniture and personal items, in a scal
   </tr>
 </table>
 
-<img src="/../main/Pictures/3DprintFilament.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-<img src="/../main/Pictures/CoffeeTable.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-<img src="/../main/Pictures/Plant.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-<img src="/../main/Pictures/Chair.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-<img src="/../main/Pictures/Nightshelf.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-<img src="/../main/Pictures/Teddys.JPG" alt="Picture of a Miniature Item from Flooded House." width="400">
-
-
