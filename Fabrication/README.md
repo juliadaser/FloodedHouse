@@ -22,7 +22,7 @@ The aquarium size where the miniature apartment is placed in, is in a 1:20 scale
 - Two [Water Tank Connectors](https://www.amazon.com/dp/B07GPP23K9?ref=ppx_yo2ov_dt_b_product_details&th=1) and two [Hose fitting adaptors](https://www.harfington.com/products/p-1114801?variant=42673303945465) to connect the water pump to the aquarium
 - Two [L-Bulkhead fittings](https://www.amazon.com/dp/B08J86HS2W?ref=ppx_yo2ov_dt_b_product_details&th=1) to connect the water tank to the water pump
 
-<img src="/../main/Pictures/PlumbinSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="800">
+<img src="/../main/Pictures/PlumbinSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="500">
 
 ## Part 3: 3D printing
 [Find 3D Models here](/Fabrication/3D%20Printing)
