@@ -1,11 +1,3 @@
-## This section will provide:
-1. An _**overview**_ of how all parts are connected
-2. A _**Material List**_
-3. 3D models for all _**3D Printed Parts**_
-4. Illustrator Files for all _**Laser Cut Files**_
-5. Tips for the _**Miniature Items**_
-
-
 ## Part 1: Overview
 <img src="/../main/Pictures/OverviewSketch.jpg" alt="Overview Picture of Flooded House" width="800">
 
@@ -18,13 +10,15 @@
 The aquarium size where the miniature apartment is placed in, is in a 1:20 scale to my real apartment. Therefore, I had the encasings custom-made to size at ShopPOPDisplays (linked above). 
 
 ### Water System
-- [Silicone Tubing](https://www.amazon.com/dp/B07W5TGX8B?psc=1&ref=ppx_yo2ov_dt_b_product_details) 1/4" Inner Diameter
-- Two [Water Tank Connectors](https://www.amazon.com/dp/B07GPP23K9?ref=ppx_yo2ov_dt_b_product_details&th=1) and two [Hose fitting adaptors](https://www.harfington.com/products/p-1114801?variant=42673303945465) to connect the water pump to the aquarium
-- Two [L-Bulkhead fittings](https://www.amazon.com/dp/B08J86HS2W?ref=ppx_yo2ov_dt_b_product_details&th=1) to connect the water tank to the water pump
 
 <img src="/../main/Pictures/PlumbinSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="500">
 
 As shown in the ilustration above, there are two water pumps. One pumps water from the water tank into into the aqarium, and one pumps water out of the aquarium into the water tank. The 'plumbing' is made waterproof by using several different _water tank connectors_ listed above. Two holes are drilled into the aquarium underside to fit the _water tank connectors_. These holes can either be laser cut (see Part 4: Laser Cutting), or drilled with a big acrylic drillbit. 
+
+- [Silicone Tubing](https://www.amazon.com/dp/B07W5TGX8B?psc=1&ref=ppx_yo2ov_dt_b_product_details) 1/4" Inner Diameter
+- Two [Water Tank Connectors](https://www.amazon.com/dp/B07GPP23K9?ref=ppx_yo2ov_dt_b_product_details&th=1) and two [Hose fitting adaptors](https://www.harfington.com/products/p-1114801?variant=42673303945465) to connect the water pump to the aquarium
+- Two [L-Bulkhead fittings](https://www.amazon.com/dp/B08J86HS2W?ref=ppx_yo2ov_dt_b_product_details&th=1) to connect the water tank to the water pump
+
 
 ## Part 3: 3D printing
 [Find 3D Models here](/Fabrication/3D%20Printing)
