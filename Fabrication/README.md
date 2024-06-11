@@ -7,16 +7,13 @@
 
 
 ## Part 1: Overview
-![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
-
 <img src="/../main/Pictures/OverviewSketch.jpg" alt="Picture of a Miniature Item from Flooded House." width="800">
-
 
 ## Part 2: Materials
 
 ### Water Storage
-- [Aquarium](https://www.shoppopdisplays.com/CS001/5-sided-clear-acrylic-box-custom-size.html?list=Category%20Listing) in size 6" x 11" x 8" (HxWxD) and 3/16" wall thickness - $79.28
-- [Water Tank](https://www.shoppopdisplays.com/CS001/5-sided-clear-acrylic-box-custom-size.html?list=Category%20Listing) in size 5" x 11" x 11" (HxWxD) and 1/4" wall thickness - $86.92
+- [Aquarium](https://www.shoppopdisplays.com/CS001/5-sided-clear-acrylic-box-custom-size.html?list=Category%20Listing) in size 6" x 11" x 8" (HxWxD) and 3/16" wall thickness
+- [Water Tank](https://www.shoppopdisplays.com/CS001/5-sided-clear-acrylic-box-custom-size.html?list=Category%20Listing) in size 5" x 11" x 11" (HxWxD) and 1/4" wall thickness
 
 The aquarium size where the miniature apartment is placed in, is in a 1:20 scale to my real apartment. Therefore, I had the encasings custom-made to size at ShopPOPDisplays (linked above). 
 
@@ -28,13 +25,16 @@ The aquarium size where the miniature apartment is placed in, is in a 1:20 scale
 ## Part 3: 3D printing
 [Find 3D Models here](/Fabrication/3D%20Printing)
 
+All 3D models are provided as .stl files either in mm or cm units. Scale accordingly in your preferred 3D print software. 
+The _Electronics Housing_ and the _Water Tank Walls_ are printed in black filament. The _Spacers_ that hold the aquarium top are printed in transparent filament. The _Interface_ is printed in two colors, black and white, so that the text and map appear in white in the print, and the background appears in black. 
+
 ## Part 4: Laser Cutting
 [Find Illustrator Files here](/Fabrication/Laser%20Cutting)
 
+The _Acrylic Aquarium Top_ is lasercut in 1/8" thickness transparent acrylic. 
+
 ## Part 5: Miniature Items
-
-
-![Picture of a Miniature Item from Flooded House.](/assets/images/electrocat.png)
+![Picture of a Miniature Item from Flooded House.](/../main/Pictures/OverviewSketch.jpg)
 
 
 How scale is calculated
