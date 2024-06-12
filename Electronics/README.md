@@ -5,7 +5,7 @@
 The electronic components in Flooded House have three main functions:
 - **_The Interface_** collects the user's selection of the climate scenario. The selectin contains 6 buttons - each one represents a location around the world, potentiometer with which users can select a year, and a potentiometer with which users can select a predicted temperature increase. A "Enter" button allows users to start the visualization.
 - **_The Water Height Measurement_** consists of many transistors and constantly measures the water height inside the aquarium tp report it back to the Arduino. [The electronics for this are not very elegant unfortunately...]
-- **_The Water System**, made up of water pumps, transistors, and capacitors pump water into the aquarium or out of it, depending on the user selection, and the water height. 
+- **_The Water System_**, made up of water pumps, transistors, and capacitors pump water into the aquarium or out of it, depending on the user selection, and the water height. 
 
 
 ## Part 2: Interface
@@ -14,10 +14,10 @@ The electronic components in Flooded House have three main functions:
 
 ## Part 4: Water System
 
-## Part 4: Power Supply + Putting everything together
+## Part 5: Power Supply + Putting everything together
 
-## Part 4: Code!
-
+## Part 6: Code!
+[Find Commented Arduino Code Here](/Electronics/Code)
 
 
 List of Materials:
