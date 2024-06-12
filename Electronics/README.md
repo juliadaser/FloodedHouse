@@ -9,30 +9,23 @@ The electronic components in Flooded House have three main functions:
 
 
 ## Part 2: Interface
+- 2 x [Sliding Potentiometers](https://www.adafruit.com/product/4219)
+- 6 x [Illuminated Pushbutton](https://www.adafruit.com/product/1479)
+- 2 x [7-segment display with I2C Backpack](https://www.adafruit.com/product/1002)
+- 2 x [Stemma QT-connector wires](https://www.adafruit.com/product/4210)
+- 1 x [Arcade Button](https://www.adafruit.com/product/492)
+- 2 x Regular 4mm LED's in Blue and Green
+- 2 x 220Ω Resistor for LED
 
 ## Part 3: Water Height Measurement
 
+Water Height
+Thin Wire
+2222a Transistors
+Circuit Diagram
+
 ## Part 4: Water System
 
-## Part 5: Power Supply + Putting everything together
-
-## Part 6: Code!
-[Find Commented Arduino Code Here](/Electronics/Code)
-
-
-List of Materials:
-Arduino Mega + Power supply + Soldering hat thing
-General:
-Silicone Wire
-Heat Shrinks, Solder etc. 
-Wago Connectors
-Barrel Jack Connectors
-Interface
-Pushbuttons (6x)
-Sliding Potentiometer (2x)
-7-segment display + Hat (2x) + Stemma QT-wires
-Big button (2x)
-LEDs (2x) + resistors
 Water Pumps:
 Power supply
 2 water pumps
@@ -40,8 +33,16 @@ Capacitors
 Transistors
 Resistors
 Flyback Diode
-Water Height
-Thin Wire
-2222a Transistors
-Circuit Diagram
+
+## Part 5: Power Supply + Putting everything together
+
+Arduino Mega + Power supply + Soldering hat thing
+Silicone Wire
+Heat Shrinks, Solder etc. 
+Wago Connectors
+Barrel Jack Connectors
+
+## Part 6: Code!
+[Find Commented Arduino Code Here](/Electronics/Code)
+
 
