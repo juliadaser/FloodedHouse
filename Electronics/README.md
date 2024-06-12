@@ -1,4 +1,4 @@
-##Part 1: Overview
+## Part 1: Overview
 
 - Sketch of electronics that is annotated (and what each part does)
 
@@ -8,15 +8,15 @@ The electronic components in Flooded House have three main functions:
 - **_The Water System**, made up of water pumps, transistors, and capacitors pump water into the aquarium or out of it, depending on the user selection, and the water height. 
 
 
-##Part 2: Interface
+## Part 2: Interface
 
-##Part 3: Water Height Measurement
+## Part 3: Water Height Measurement
 
-##Part 4: Water System
+## Part 4: Water System
 
-##Part 4: Power Supply + Putting everything together
+## Part 4: Power Supply + Putting everything together
 
-##Part 4: Code!
+## Part 4: Code!
 
 
 
