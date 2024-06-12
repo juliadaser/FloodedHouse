@@ -50,6 +50,6 @@ Sketch
 
 
 ## Part 6: Code!
-[Find Commented Arduino Code Here](/Electronics/Code)
+[Find Arduino Code Here](/Electronics/Code)
 
 
