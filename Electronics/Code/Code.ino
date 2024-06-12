@@ -385,7 +385,7 @@ void fillAquarium() {
       digitalWrite(waterLED, LOW);
       digitalWrite(doneLED, HIGH);
 
-      delay(30000); //waiting for user to see (wait 20 seconds);
+      delay(30000); //waiting for user to see (wait 30 seconds);
       digitalWrite(doneLED, LOW);
 
       filling = false;
