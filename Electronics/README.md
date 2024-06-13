@@ -32,7 +32,8 @@ _Note: The way I am measuring the water height in this project is not ideal. I a
 
 _The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
 
-<img src="/../main/Pictures/WaterHeight.jpg" alt="Overview Illustration of Electronics" width="400">
+
+<img src="/../main/Pictures/WaterHeight.jpg" alt="Overview Illustration of Electronics" width="600">
 
 - 1 x [extra thin prototyping wire](https://www.adafruit.com/product/1446)
 - 22 x [2n2222a transistor](https://www.amazon.com/dp/B0CRVGFN4R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
