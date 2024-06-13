@@ -14,6 +14,8 @@ Below you can find an explanation and material list for each main function. Regu
 
 ## Part 2: Interface
 
+Pretty straight forward: A bunch of buttons, sliding potentiometers, 7-segment displays and LEDs. 
+
 <img src="/../main/Pictures/Interface.jpg" alt="Overview Illustration of Electronics" width="800">
 
 - 2 x [Sliding Potentiometers](https://www.adafruit.com/product/4219)
@@ -26,7 +28,9 @@ Below you can find an explanation and material list for each main function. Regu
 
 ## Part 3: Water Height Measurement
 
-_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire-ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one 10mm, and so on. A separate wire that is charged 5V is also placed in the water at the other corner of the apartment. If the water rises, it connects the 5V-charged wire to the other wire-ends. Using transistors, I can aplify the current and detect whether the water is connecing that "circuit". Hence, I can detect how high the water has already risen._
+_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire-ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one 10mm, and so on. A separate wire that is charged 5V is also placed in the water at the other corner of the apartment. If the water rises, it connects the 5V-charged wire to the other wire-ends. Using transistors, I can aplify the current and detect whether the water is connecing that "circuit". Hence, I can detect how high the water has already risen.
+
+The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
 
 <img src="/../main/Pictures/WaterHeight.jpg" alt="Overview Illustration of Electronics" width="400">
 
@@ -37,6 +41,10 @@ The wires marked with the "Water" tag are placed into the apartment. I glued the
 <img src="/../main/Pictures/WaterHeightSensor.jpg" alt="Picture of the Water Height Sensor" width="800">
 
 ## Part 4: Water System
+
+Read more about how the water pump system works [here](/../main/Fabrication/), Part 2.
+
+_Note: I am using two separate power supplies, one for the Arduino, and one for the DC Water pumps. This is technically not necessary, and could have been avoided by powering both the Arduino and the water pumps with 12V._
 
 <img src="/../main/Pictures/WaterSystem.jpg" alt="Overview Illustration of Electronics" width="600">
 
