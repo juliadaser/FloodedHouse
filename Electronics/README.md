@@ -1,5 +1,8 @@
 ## Part 1: Overview
 
+
+<img src="/../main/Pictures/Wiring Diagram.jpg" alt="Overview Illustration of Electronics" width="800">
+
 Sketch of electronics that is annotated (and what each part does)
 
 The electronic components in Flooded House have three main functions:
