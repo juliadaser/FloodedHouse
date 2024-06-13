@@ -32,7 +32,7 @@ Below you can find an explanation and material list for each main function. Regu
 - 22 x [2n2222a transistor](https://www.amazon.com/dp/B0CRVGFN4R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 In my Flooded House version, I attached the ends of the wires to the back of the miniature wires with 5mm distance from each other, to measure the water height in intervals of 5mm. 
-<img src="/../main/Pictures/WaterHeightSensor.JPG" alt="Picture of finished Electronics" width="800">
+<img src="/../main/Pictures/WaterHeightSensor.jpg" alt="Picture of the Water Height Sensor" width="800">
 
 ## Part 4: Water System
 
