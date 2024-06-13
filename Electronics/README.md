@@ -28,9 +28,9 @@ Pretty straight forward: A bunch of buttons, sliding potentiometers, 7-segment d
 
 ## Part 3: Water Height Measurement
 
-_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire-ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one 10mm, and so on. A separate wire that is charged 5V is also placed in the water at the other corner of the apartment. If the water rises, it connects the 5V-charged wire to the other wire-ends. Using transistors, I can aplify the current and detect whether the water is connecing that "circuit". Hence, I can detect how high the water has already risen.
+_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire-ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one 10mm, and so on. A separate wire that is charged 5V is also placed in the water at the other corner of the apartment. If the water rises, it connects the 5V-charged wire to the other wire-ends. Using transistors, I can aplify the current and detect whether the water is connecing that "circuit". Hence, I can detect how high the water has already risen._
 
-The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
+_The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
 
 <img src="/../main/Pictures/WaterHeight.jpg" alt="Overview Illustration of Electronics" width="400">
 
@@ -38,7 +38,7 @@ The problem of this method is that over time multiple measure points keep breaki
 - 22 x [2n2222a transistor](https://www.amazon.com/dp/B0CRVGFN4R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 The wires marked with the "Water" tag are placed into the apartment. I glued them at the back of the miniature mirror with 5mm distance from each other, to measure the water height in intervals of 5mm. 
-<img src="/../main/Pictures/WaterHeightSensor.jpg" alt="Picture of the Water Height Sensor" width="800">
+<img src="/../main/Pictures/WaterHeightSensor.jpg" alt="Picture of the Water Height Sensor" width="400">
 
 ## Part 4: Water System
 
