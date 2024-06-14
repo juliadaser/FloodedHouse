@@ -47,7 +47,7 @@ Read more about how the water pump system works [here](/../main/Fabrication/), P
 
 _Note: I am using two separate power supplies, one for the Arduino, and one for the DC Water pumps. This is technically not necessary, and could have been avoided by powering both the Arduino and the water pumps with 12V._
 
-<img src="/../main/Pictures/WaterSystem.jpg" alt="Overview Illustration of Electronics" width="600">
+<img src="/../main/Pictures/Water_System.jpg" alt="Overview Illustration of Electronics" width="600">
 
 - 2 x [mini DC 6V-12V Water Pump](https://www.amazon.com/Gikfun-Aquarium-Cooled-Diaphragm-EK1856/dp/B0744FWNFR/ref=sr_1_8?crid=32KMANFREUB0E&dib=eyJ2IjoiMSJ9.J0Tx3kri4VOzRx4WEBbvFqtay5iG7ajseZqrG_dtkoebM9g6lP8WZgsmsSQusOCyx9zNqZKUEm4AOZAsuNBRDL_KEKx3fl4AlU-RHnunfjPtwnE9DVWMFh6hfjJi7kup9jggLzmP5qCKWlK50Vvs5VnWu9aJx-zCBwapUsVnUN7B3ZbiLiI17WJ2K0DV6cKRJMdsL_GMQBL6KhunZMsen87Lxazvq0yXjnUWTctHZlA6QviKqo2bmg8pZ-La4j5bEXsJDe9xVfi1WRDsWJOqwtabCaCHKBEaXNbetLuWrR4.hik8rEZ-_YLfcWAMrKjhWcLLEJ72LE4GUuT7xzYkr7Y&dib_tag=se&keywords=water+pumps+arduino+12V&qid=1718229218&sprefix=water+pumps+arduino+12v%2Caps%2C207&sr=8-8)
 - 2 x [35V 1000uf Capacitor](https://www.amazon.com/dp/B073YR6LVK?psc=1&ref=ppx_yo2ov_dt_b_product_details)
