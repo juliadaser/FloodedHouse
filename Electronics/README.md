@@ -1,7 +1,7 @@
 ## Part 1: Overview
 
 
-<img src="/../main/Pictures/WiringDiagram.jpg" alt="Overview Illustration of Electronics" width="800">
+<img src="/../main/Pictures/Wiring_Diagram.jpg" alt="Overview Illustration of Electronics" width="800">
 
 The electronic components in Flooded House have three main functions:
 - **_The Interface_** collects the user's selection of the climate scenario. The selectin contains 6 buttons - each one represents a location around the world, potentiometer with which users can select a year, and a potentiometer with which users can select a predicted temperature increase. A "Enter" button allows users to start the visualization.
@@ -33,7 +33,7 @@ _Note: The way I am measuring the water height in this project is not ideal. I a
 _The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
 
 
-<img src="/../main/Pictures/WaterHeight.jpg" alt="Overview Illustration of Electronics" width="400">
+<img src="/../main/Pictures/Water_Height.jpg" alt="Overview Illustration of Electronics" width="400">
 
 - 1 x [extra thin prototyping wire](https://www.adafruit.com/product/1446)
 - 22 x [2n2222a transistor](https://www.amazon.com/dp/B0CRVGFN4R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
