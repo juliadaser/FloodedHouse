@@ -2,7 +2,8 @@
 
 All files, code and data I used to build _**Flooded House**_.
 
-![Flooded House GIF](/Pictures/FloodedHouse.gif)
+![Flooded House GIF](/../main/Pictures/FloodedHouse.gif)
+
 
 Goal of Github
 Transparent about cost, and behind the scenes - esp in data-visualization
