@@ -11,7 +11,7 @@ The aquarium where the miniature apartment is placed is at a 1:20 scale to my re
 
 ### Water System
 
-<img src="/../main/Pictures/PlumbingSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="500">
+<img src="/../main/Pictures/PlumbinSketch.jpg" alt="Picture illustrating the plumbing of Flooded House." width="500">
 
 As shown in the illustration above, there are two water pumps: one pumps water from the water tank into the aquarium, and one pumps water out of the aquarium back into the water tank. The plumbing is made waterproof using several different water tank connectors listed below. Two holes are drilled into the underside of the aquarium to fit the water tank connectors. These holes can either be laser-cut (see Part 4: Laser Cutting) or drilled with a large acrylic drill bit.
 
