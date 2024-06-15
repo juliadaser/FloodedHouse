@@ -1,6 +1,13 @@
 # FloodedHouse
-code and building instructions
 
+All files, code and data I used to build _**Flooded House**_.
+
+
+
+## User Guide:
+
+### Find 3D Models, Laser Cutting Files, and Instructions for everything related to Fabrication [here](/Fabrication)
+### Find Circuit Diagrams, Instructions and all materials used for the Electornics portion [here](/Electronics)
 
 Picture
 Goal of Github
