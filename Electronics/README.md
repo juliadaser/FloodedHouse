@@ -4,12 +4,14 @@
 <img src="/../main/Pictures/Wiring_Diagram.jpg" alt="Overview Illustration of Electronics" width="800">
 
 The electronic components in Flooded House have three main functions:
-- **_The Interface_** collects the user's selection of the climate scenario. The selectin contains 6 buttons - each one represents a location around the world, potentiometer with which users can select a year, and a potentiometer with which users can select a predicted temperature increase. A "Enter" button allows users to start the visualization.
-- **_The Water Height Measurement_** consists of many transistors and constantly measures the water height inside the aquarium tp report it back to the Arduino. [The electronics for this are not very elegant unfortunately...]
-- **_The Water System_**, made up of water pumps, transistors, and capacitors pump water into the aquarium or out of it, depending on the user selection, and the water height.
 
+- The **_Interface collects_** the user's selection of the climate scenario. The selection includes six buttons, each representing a location around the world, a potentiometer with which users can select a year, and a potentiometer with which users can select a predicted temperature increase. An "Enter" button allows users to start the visualization.
 
-Below you can find an explanation and material list for each main function. Regular Electronics Items like (Silicone) Wire, Heat Shrink Tubes, Solder, (Wago) Connectors are also needed. 
+- The **_Water Height Measurement_** consists of many transistors and constantly measures the water height inside the aquarium to report it back to the Arduino. (The electronics for this are not very elegant, unfortunately.)
+
+- **_The Water System_**, made up of water pumps, transistors, and capacitors, pumps water into or out of the aquarium depending on the user selection and the water height.
+
+Below you can find an explanation and material list for each main function. Regular electronic items like (silicone) wire, heat shrink tubes, solder, and (Wago) connectors are also needed.
 
 
 ## Part 2: Interface
@@ -28,9 +30,9 @@ Pretty straight forward: A bunch of buttons, sliding potentiometers, 7-segment d
 
 ## Part 3: Water Height Measurement
 
-_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire-ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one 10mm, and so on. A separate wire that is charged 5V is also placed in the water at the other corner of the apartment. If the water rises, it connects the 5V-charged wire to the other wire-ends. Using transistors, I can aplify the current and detect whether the water is connecing that "circuit". Hence, I can detect how high the water has already risen._
+_Note: The way I am measuring the water height in this project is not ideal. I am measuring the water height at intervals of 5mm by placing wire ends into the aquarium at those height intervals: the first wire is placed 5mm above the floor, the second one at 10mm, and so on. A separate wire, charged with 5V, is also placed in the water at the other corner of the aquarium. If the water rises, it connects the 5V-charged wire to the other wire ends. Using transistors, I can amplify the current and detect whether the water is connecting that "circuit." Hence, I can detect how high the water has risen._
 
-_The problem of this method is that over time multiple measure points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
+_The problem with this method is that over time multiple measurement points keep breaking. Additionally, the measurement is not very precise, as I can only detect increases of 5mm._
 
 
 <img src="/../main/Pictures/Water_Height.jpg" alt="Overview Illustration of Electronics" width="400">
@@ -38,14 +40,14 @@ _The problem of this method is that over time multiple measure points keep break
 - 1 x [extra thin prototyping wire](https://www.adafruit.com/product/1446)
 - 22 x [2n2222a transistor](https://www.amazon.com/dp/B0CRVGFN4R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-The wires marked with the "Water" tag are placed into the apartment. I glued them at the back of the miniature mirror with 5mm distance from each other, to measure the water height in intervals of 5mm. 
+The wires marked with the 'Water' tag are placed inside the aquarium. I glued them to the back of the miniature mirror with a 5mm distance between each wire to measure the water height in 5mm intervals.
 <img src="/../main/Pictures/WaterHeightSensor.jpg" alt="Picture of the Water Height Sensor" width="600">
 
 ## Part 4: Water System
 
 Read more about how the water pump system works [here](/../main/Fabrication/), Part 2.
 
-_Note: I am using two separate power supplies, one for the Arduino, and one for the DC Water pumps. This is technically not necessary, and could have been avoided by powering both the Arduino and the water pumps with 12V._
+_Note: I am using two separate power supplies, one for the Arduino and one for the DC water pumps. This is technically not necessary and could have been avoided by powering both the Arduino and the water pumps with 12V._
 
 <img src="/../main/Pictures/Water_System.jpg" alt="Overview Illustration of Electronics" width="600">
 
