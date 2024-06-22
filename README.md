@@ -4,7 +4,7 @@ All files, code, and data used to build _**Flooded House**_.
 
 ![Flooded House GIF](/../main/Pictures/FloodedHouse.gif)
 
-Art is for all! This GitHub page provides insight into my building process and includes all files and code used in the project to make _Flooded House_ as transparent as possible. This is especially important because _Flooded House_ is a data visualization about climate change - a topic where accuracy and transparency are crucial.
+Art is for all! This GitHub page provides insight into my building process, and includes all files and code to make _Flooded House_ as transparent as possible. This is especially important because _Flooded House_ is a data visualization about climate change - a topic where accuracy and transparency are crucial.
 
 ## Important Links
 
