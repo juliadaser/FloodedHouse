@@ -8,7 +8,7 @@ Art is for all! This GitHub page provides insight into my building process, and 
 
 ## Important Links
 
-- Read more about my project on [my website](https://www.juliadaser.com/work/flooded-house).
+- Read more about my project on [my website](https://www.juliadaser.com/flooded-house).
 - Explore the data used for this project on [the NASA website](https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool).
 
 ## User Guide
